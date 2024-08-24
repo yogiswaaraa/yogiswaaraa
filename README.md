@@ -1,5 +1,5 @@
-# 💫 About Me:
-🎓 I am a final semester informatics student at Universitas Islam Indonesia.<br>
+Hi, I'm Yogiswara!
+I am a final semester informatics student at Universitas Islam Indonesia.<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yogiswaaraa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
